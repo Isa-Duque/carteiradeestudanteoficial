@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isa-duque.github.io/carteiradeestudanteoficial/sitemap.xml
